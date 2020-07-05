@@ -3,4 +3,4 @@ var wpm = (function(wpm) {
     ow_Write("#output_main", "Loading 'wpm'...");
     wpm = {wpm: "Hello world"}
     return wpm;
-})(wpm || {} );
+}(wpm || {} ));
